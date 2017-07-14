@@ -1,0 +1,64 @@
+body {
+	font-family: "Montserrat", sans-serif;
+	background-color: #E6E8E6;
+	color: #191919;
+}
+
+/*#blog-header {
+	background-image: url("https://source.unsplash.com/6uBfxz_PTcU");
+	/*filter: grayscale(100%);*/
+	/*color: white;
+}*/
+
+.blog-header{
+	background-color: #CED0CE;
+}
+
+.blog-date{
+	text-transform: lowercase;
+	text-align: right;
+}
+
+.blog-title{
+	text-align: right;
+}
+
+.navbar-inverse {
+	text-transform: lowercase;
+	background-color: #191919;
+	border-color: #191919;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #CED0CE;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #F15025;
+}
+
+.jumbotron{
+	text-transform: lowercase;
+	padding-top: 70px;
+	background-color: #CED0CE;
+}
+
+h3 {
+	text-transform: lowercase;
+	color: #F15025;
+}
+
+img {
+	filter: grayscale(100%);
+}
+
+#intro {
+	/*background-image: url("https://source.unsplash.com/dBakyHCqQMA");
+	background-size: cover;*/
+	padding-top: 70px;
+	text-transform: lowercase;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #BDC3C7;
+}
