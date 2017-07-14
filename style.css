@@ -62,3 +62,11 @@ img {
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
     border-color: #BDC3C7;
 }
+
+a {
+	color: #F15025;
+}
+
+a:hover {
+	color: #F15025;
+}
